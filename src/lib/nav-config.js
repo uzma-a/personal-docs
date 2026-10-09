@@ -169,11 +169,32 @@ export const NAV = [
     ],
   },
 
+  // Operating System
+  {
+    section: "operating-system",
+    title: "Operating System",
+    number: "13",
+    topics: [
+      {slug: "operating-system", title: "Operating Systems"}
+    ]
+  },
+
+  // Computer organization and architecture
+  {
+    section: "computer-organization-and-architecture",
+    title: "Computer Organization & Architecture",
+    number: "14",
+    topics: [
+      {slug: "computer-organization-and-architecture", title: "Computer Organization & Architecture"}
+    ]
+  },
+  
+
   // 
   {
     section: "interview",
     title: "Interview Questions",
-    number: "13",
+    number: "15",
     topics: [
       { slug: "interview-questions", title: "Interview Questions", status: "" },
     ],
