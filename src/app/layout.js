@@ -11,9 +11,9 @@ import AppShell from "@/components/AppShell";
 // take over automatically — see globals.css.
 
 export const metadata = {
-  title: "Uzma Dev Notes",
+  title: "Dev Notes",
   description:
-    "A personal developer knowledge base — notes, revision, and interview prep from the IBM Full Stack Software Developer journey.",
+    "A personal developer knowledge base — notes, revision, and interview prep.",
 };
 
 // Inline script prevents a flash of the wrong theme on first paint —

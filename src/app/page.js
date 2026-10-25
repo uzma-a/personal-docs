@@ -8,17 +8,19 @@ export default function HomePage() {
         style={{ background: "var(--accent-soft)", color: "var(--accent)" }}
       >
         <Sparkles size={12} />
-        IBM Full Stack Software Developer
+        Full Stack · Cloud · AI · Interview Prep
       </div>
 
       <h1 className="font-display text-3xl sm:text-4xl font-bold tracking-tight mb-4">
-        Welcome to my developer learning journey
+        Learn it. Revise it. Ace the interview.
       </h1>
 
       <p className="text-text-muted leading-relaxed">
-        This is my personal knowledge base — every concept I learn, revise, and
-        turn into interview-ready answers, organized like documentation and
-        searchable like a second brain.
+        A structured knowledge base of developer concepts, from software
+        engineering fundamentals to cloud, containers, and generative AI. Every
+        topic comes with a clear explanation for learning and ready-to-use
+        answers for interviews, organized like documentation and searchable
+        like a second brain.
       </p>
 
       <p className="text-text-faint text-sm mt-6">

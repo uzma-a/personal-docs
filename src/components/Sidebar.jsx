@@ -67,8 +67,8 @@ export default function Sidebar({ open, onClose }) {
             $_
           </div>
           <div className="leading-tight">
-            <div className="font-display font-bold text-sm">Uzma Dev Notes</div>
-            <div className="text-[0.7rem] text-text-faint">IBM Full Stack Journey</div>
+            <div className="font-display font-bold text-sm">Dev Notes</div>
+            <div className="text-[0.7rem] text-text-faint">Full Stack · Cloud · AI · Interview Prep</div>
           </div>
         </div>
 
