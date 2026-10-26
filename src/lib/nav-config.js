@@ -156,18 +156,7 @@ export const NAV = [
     ],
   },
 
-  // Generative AI
-  {
-    section: "generative-ai",
-    title: "Generative AI",
-    number: "12",
-    topics: [
-      { slug: "gen-ai-basic-software-development", title: "Gen AI basic for software development", status: "" },
-      { slug: "gen-ai-for-software-architecture-and-code-generation", title: "Gen AI for Software Architecture and Code Generation", status: "" },
-      { slug: "gen-ai-for-software-development-and-its-considerations", title: "Gen AI for Software Development Workflows and Its Considerations", status: "" },
-      { slug: "agentic-ai-and-vibe-coding", title: "Agentic AI & Vibe Coding", status: "" },
-    ],
-  },
+
 
   // Operating System
   {
@@ -175,7 +164,7 @@ export const NAV = [
     title: "Operating System",
     number: "13",
     topics: [
-      {slug: "operating-system", title: "Operating Systems"}
+      { slug: "operating-system", title: "Operating Systems" }
     ]
   },
 
@@ -185,16 +174,40 @@ export const NAV = [
     title: "Computer Organization & Architecture",
     number: "14",
     topics: [
-      {slug: "computer-organization-and-architecture", title: "Computer Organization & Architecture"}
+      { slug: "computer-organization-and-architecture", title: "Computer Organization & Architecture" }
     ]
   },
-  
+
+  // Generative AI
+  {
+    section: "generative-ai",
+    title: "Generative AI",
+    number: "15",
+    topics: [
+      { slug: "gen-ai-basic-software-development", title: "Gen AI basic for software development", status: "" },
+      { slug: "gen-ai-for-software-architecture-and-code-generation", title: "Gen AI for Software Architecture and Code Generation", status: "" },
+      { slug: "gen-ai-for-software-development-and-its-considerations", title: "Gen AI for Software Development Workflows and Its Considerations", status: "" },
+      { slug: "agentic-ai-and-vibe-coding", title: "Agentic AI & Vibe Coding", status: "" },
+    ],
+  },
+
+  // Machine Learning
+  {
+    section: "ML-with-Python",
+    title: "Machine Learning",
+    number: "16",
+    topics: [
+      { slug: "Intro-to-ML", title: "Intro to Machine Learning" },
+      { slug: "Linear-and-logistic-Regression", title: "Linear & Logistic Regression" },
+    ]
+  },
+
 
   // 
   {
     section: "interview",
     title: "Interview Questions",
-    number: "15",
+    number: "17",
     topics: [
       { slug: "interview-questions", title: "Interview Questions", status: "" },
     ],
