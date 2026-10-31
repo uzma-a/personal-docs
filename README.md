@@ -1,4 +1,4 @@
-# Uzma Dev Notes
+# Dev Notes Hub
 
 A personal developer documentation site for my IBM Full Stack Software Developer
 learning journey — notes, revision material, and interview prep, organized like
